@@ -1,0 +1,22 @@
+{
+  "name": "line-racer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradyumna1/Line-Racer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradyumna1/Line-Racer/issues"
+  },
+  "homepage": "https://github.com/pradyumna1/Line-Racer#readme",
+  "dependencies": {
+    "node-ipc": "^9.1.1"
+  }
+}
